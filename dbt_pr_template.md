@@ -1,8 +1,8 @@
 Jira Link: [BI-1234](https://sevensenders.atlassian.net/browse/BI-1234)
 
-# Description
+# Implementation Description
 
-Please include a summary of the change and which issue is fixed. 
+Please include a summary of the changes made in this PR. 
 
 
 # Type of change
@@ -27,3 +27,6 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 - [ ] I have commented my code, particularly in hard-to-understand areas
 - [ ] I have added tests to cover my changes
 - [ ] All new and existing tests passed
+
+
+# Notes (Optional)
